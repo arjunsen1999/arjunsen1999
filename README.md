@@ -3,16 +3,16 @@
 
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Akash Kumar Singh </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Arjun Sen </h1>
 <h4 align="center">I'm a Passionate and Dedicated Full Stack Web developer skilled in MERN Stack ✨.</h4>
 
-🌍 I'm from Varanasi, UttarPradesh
+🌍 I'm from Raniganj, West Bengal, India
 
 ⚛️ Some technologies that I love to work includes MERN stack, Typescript & Web Testing.
 
 🚀 I have learned couple of CSS libraries like Chakra UI & styled-components.
 
-📧 Email - akashviratsingh018@gmail.com
+📧 Email - arjunsen717@gmail.com
 
 💼 Portfolio - []()
 
@@ -32,7 +32,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 

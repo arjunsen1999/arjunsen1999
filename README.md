@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsen1999&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsen1999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arjunsen1999" target="blank"><img src="https://img.shields.io/twitter/follow/AnjaliDhanjode?logo=twitter&style=for-the-badge" alt="arjunsen1999" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arjunsen1999" target="blank"><img src="https://img.shields.io/twitter/follow/arjunsen?logo=twitter&style=for-the-badge" alt="arjunsen1999" /></a> </p>
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 

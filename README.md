@@ -31,6 +31,9 @@
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
 - 📫 How to reach me *arjunsen717@gmail.com*
+-
+<h3 align="left">Interest and Description</h3>
+<p align="left">Aspiring full stack web developer, having problem-solving ability and proficiency in MERN Stack. A quick learner and always curious to learn new things and loves to play Football.</p>
 
 
 

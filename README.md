@@ -38,6 +38,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  <a href="https://arjunsen1999.github.io/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/65/42/00/360_F_365420014_xjsSDkKzrhq4gr9GFzP6S97H7MJyNI5B.jpg" alt="arjunsen1999" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunsen1999" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arjun-sen-195bb8210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunsen1999" height="30" width="40" /></a>
 </p>

@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D9ouBIhzo9DdPC5jUic79cpiQYtxJ5DZ/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio] https://arjunsen1999.github.io
+- 👨‍💻 All of my projects are available at Github and [Portfolio] https://arjunsen1999.github.io/
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 

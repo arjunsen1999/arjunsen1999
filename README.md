@@ -33,7 +33,7 @@
 - 📫 How to reach me *arjunsen717@gmail.com*
 
 <h3 align="left">Interest and Description</h3>
-<p align="left">Aspiring full stack web developer, having problem-solving ability and proficiency in MERN Stack. A quick learner and always curious to learn new things and loves to play Football.</p>
+<p align="left">With one year of experience as a full-stack web developer, I specialize in creating dynamic and responsive web applications. Proficient in both front-end and back-end technologies, I am dedicated to delivering high-quality, user-centric solutions. I thrive on challenges and continuously seek to expand my skills in this ever-evolving field</p>
 
 
 

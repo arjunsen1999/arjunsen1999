@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D9ouBIhzo9DdPC5jUic79cpiQYtxJ5DZ/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PDYS_i09bWmFUn1nOn9K77qPGSAZT3Wz/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://arjunsen1999.github.io)
 
